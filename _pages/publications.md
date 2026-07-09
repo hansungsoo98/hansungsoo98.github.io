@@ -41,9 +41,9 @@ nav_order: 2
 
 <section class="pub-section">
 
-## Conference Publications
+<h2>Conference Publications</h2>
 
-### Accepted
+<h3>Accepted</h3>
 
 <span class="pub-kicker">Domestic</span>
 
@@ -63,7 +63,7 @@ nav_order: 2
   <li><strong>Sungsoo Han</strong>, Dahun Choi, and Hyun Kim, "BOLD-Q: Blockwise Outlier-aware Logarithmic Dual-Bias Quantization for Hardware-Efficient LLM Inference," Design, Automation and Test in Europe Conference 2026 (DATE 2026). <span class="pub-note">(IF: 2, NRF BK21+)</span></li>
 </ol>
 
-### Submitted / In Preparation
+<h3>Submitted / In Preparation</h3>
 
 <span class="pub-kicker">Domestic</span>
 
@@ -77,9 +77,9 @@ nav_order: 2
 
 <section class="pub-section">
 
-## Journal Publications
+<h2>Journal Publications</h2>
 
-### Accepted
+<h3>Accepted</h3>
 
 <span class="pub-kicker">International</span>
 
@@ -89,7 +89,7 @@ nav_order: 2
   <li>NamJoon Kim, Beom Jin Kang, Hae In Lee, Seokkyu Yoon, Youngchan Kim, Sungsoo Han, Seok-Bum Ko, and Hyun Kim, "FLASH: Energy-Efficient FPGA Acceleration via Linear Approximation and Streamlined Two-Stage Pipeline Architectures for Quantized CNN-Transformer Hybrid Networks," <em>IEEE Transactions on Neural Networks and Learning Systems</em>.</li>
 </ul>
 
-### Submitted / In Preparation
+<h3>Submitted / In Preparation</h3>
 
 <span class="pub-kicker">Domestic</span>
 
@@ -105,7 +105,7 @@ nav_order: 2
 
 <section class="pub-section">
 
-## Patents
+<h2>Patents</h2>
 
 <ul class="pub-list">
   <li>김현, 한성수, 최다훈, "온디바이스 대규모 언어 모델 추론을 위한 로그 수 체계 기반 이중 바이어스 양자화 프레임워크 및 이를 이용한 연산 시스템 및 방법," 한국, 서울과학기술대학교 산학협력단, 10-2025-0212917, 2025년 12월 29일(출원).</li>
@@ -116,7 +116,7 @@ nav_order: 2
 
 <section class="pub-section">
 
-## Software
+<h2>Software</h2>
 
 <ul class="pub-list">
   <li>김현, 한성수, 최다훈, "하드웨어 효율적인 클리핑 기반 Closit(클로짓) 포맷 양자화 프로그램," 서울과학기술대학교 산학협력단, C-2025-057438-2, 2025년 12월 30일(등록).</li>
