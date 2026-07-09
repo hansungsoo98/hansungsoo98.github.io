@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper "BGM" was accepted to IEEE Transactions on Circuits and Systems I.
+title: "[Publication] Our paper \"BGM\" was accepted to IEEE Transactions on Circuits and Systems I."
 date: 2026-05-01
 inline: true
 related_posts: false
