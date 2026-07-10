@@ -3,7 +3,7 @@ layout: page
 title: hobby
 permalink: /hobby/
 description: A small collection of things I enjoy outside research.
-nav: true
+nav: false
 nav_order: 6
 ---
 
