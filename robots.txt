@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sungsoo_han.github.io/sungsoo_han.github.io/sitemap.xml
+Sitemap: https://hansungsoo98.github.io//sitemap.xml
