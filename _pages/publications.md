@@ -86,8 +86,8 @@ nav_order: 2
 <ul class="pub-list">
   <li><strong>Sungsoo Han</strong>, Dahun Choi, and Hyun Kim, "BGM: A Block Processing Unit-Integrated GEMM Accelerator for Hardware-Efficient LLM Inference via Outlier-Aware Merge-and-Split Block Quantization," <em>IEEE Transactions on Circuits and Systems I</em>.</li>
   <li>NamJoon Kim, Beom Jin Kang, Hae In Lee, Seokkyu Yoon, Youngchan Kim, <strong>Sungsoo Han</strong>, Seok-Bum Ko, and Hyun Kim, "FLASH: Energy-Efficient FPGA Acceleration via Linear Approximation and Streamlined Two-Stage Pipeline Architectures for Quantized CNN-Transformer Hybrid Networks," <em>IEEE Transactions on Neural Networks and Learning Systems</em>.</li>
+  <li>Youngchan Kim*, Seokkyu Yoon*, <strong>Sungsoo Han</strong>, Chaewon Park, Junoh Park, Junha Go, and Hyun Kim, "Accelerating Language Giants: A Survey of Optimization Strategies for LLM Inference on Hardware Platforms," <em>Journal of Systems Architecture</em>.</li>
 </ul>
-  <li>Youngchan Kim*, Seokkyu Yoon*, <strong>Sungsoo Han</strong>, Chaewon Park, Junoh Park, Junha Go, and Hyun Kim, "Accelerating Language Giants: A Survey of Optimization Strategies for LLM Inference on Hardware Platforms," <em>Journal of Systems Architecture</em>.</li>  
 
 <h3>Submitted / In Preparation</h3>
 
