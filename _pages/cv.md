@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: true
 nav_order: 5
 description: Sungsoo Han's curriculum vitae.
@@ -12,6 +12,8 @@ description: Sungsoo Han's curriculum vitae.
     --cv-accent: #b400b9;
     --cv-border: rgba(0, 0, 0, 0.12);
     padding-top: 1.4rem;
+    max-width: 960px;
+    margin: 0 auto;
   }
 
   .cv-hero {
