@@ -41,11 +41,6 @@ nav_order: 6
     isolation: isolate;
   }
 
-  .hobby-card.is-featured {
-    grid-column: 1 / -1;
-    min-height: 360px;
-  }
-
   .hobby-card img {
     position: absolute;
     inset: 0;
@@ -77,10 +72,6 @@ nav_order: 6
     gap: 0.7rem;
     padding: 1.35rem;
     color: #ffffff;
-  }
-
-  .hobby-card.is-featured .hobby-content {
-    min-height: 360px;
   }
 
   .hobby-label {
@@ -120,11 +111,6 @@ nav_order: 6
     .hobby-content {
       min-height: 260px;
     }
-
-    .hobby-card.is-featured,
-    .hobby-card.is-featured .hobby-content {
-      min-height: 260px;
-    }
   }
 </style>
 
@@ -147,11 +133,11 @@ nav_order: 6
     </article>
 
     <article class="hobby-card">
-      <img src="{{ '/assets/img/7.jpg' | relative_url }}" alt="Futsal preview image">
+      <img src="{{ '/assets/img/12.jpg' | relative_url }}" alt="Classical guitar preview image">
       <div class="hobby-content">
-        <span class="hobby-label">team play</span>
-        <h2>Futsal</h2>
-        <p>A compact game for movement, passing, and clearing the head after long technical work.</p>
+        <span class="hobby-label">music</span>
+        <h2>Classical Guitar</h2>
+        <p>Quiet practice time with nylon strings, small details, and pieces that reward patience.</p>
       </div>
     </article>
 
@@ -170,15 +156,6 @@ nav_order: 6
         <span class="hobby-label">routine</span>
         <h2>Walking</h2>
         <p>Slow, useful time for sorting thoughts, resetting focus, and letting ideas settle.</p>
-      </div>
-    </article>
-
-    <article class="hobby-card is-featured">
-      <img src="{{ '/assets/img/12.jpg' | relative_url }}" alt="Classical guitar preview image">
-      <div class="hobby-content">
-        <span class="hobby-label">music</span>
-        <h2>Classical Guitar</h2>
-        <p>Quiet practice time with nylon strings, small details, and pieces that reward patience.</p>
       </div>
     </article>
 
