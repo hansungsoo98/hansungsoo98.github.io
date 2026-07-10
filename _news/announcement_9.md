@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[Publication] Our paper "BOLD-Q" was accepted to DATE 2026.'
-date: 2026-04-01
+date: 2026-04-21
 inline: true
 related_posts: false
 ---
