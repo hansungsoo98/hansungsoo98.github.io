@@ -25,7 +25,7 @@ latest_posts:
 
 <style>
   .profile {
-    margin-top: -5rem;
+    margin-top: -7.5rem;
   }
 
   @media (max-width: 576px) {
